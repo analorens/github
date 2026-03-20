@@ -108,6 +108,7 @@
 -----
 
 #### 🖼️ Imagens
+- [Lorens - Imagens](https://github.com/analorens/github/tree/main/images)
 ---
 ##### 📏 Tamanho padrão do banner
 - 1080x200
