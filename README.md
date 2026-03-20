@@ -13,8 +13,9 @@
 
 ### Links úteis:
 
--[Markdown guide](https://www.markdownguide.org/basic-syntax/)
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/)
 - [Faça seu octocat](https://myoctocat.com/build-your-octocat/)
+- [Generator profile Header](https://leviarista.github.io/github-profile-header-generator/)
 
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
 
