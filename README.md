@@ -13,6 +13,7 @@
 
 ### Links úteis:
 
+-[Markdown guide](https://www.markdownguide.org/basic-syntax/)
 - [Faça seu octocat](https://myoctocat.com/build-your-octocat/)
 
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
