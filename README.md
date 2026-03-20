@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Exemplos de perfis:
 - [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
-- [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
+- [Exemplo 2 - Flávio Jr](https://github.com/flaviojuniordev)
   
 -----
 
