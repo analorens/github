@@ -13,6 +13,8 @@
 
 ### Links úteis:
 
+- [Faça seu octocat](https://myoctocat.com/build-your-octocat/)
+
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
 
 ##### 📊 Estatísticas de contribuição e métricas
